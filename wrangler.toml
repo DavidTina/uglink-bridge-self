@@ -3,7 +3,7 @@ main = "dist/index.js"
 compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
-BASE_URL = "https://dxp4800plus-2e38.local"
+BASE_URL = "https://ug.link/dxp4800plus-2e38"
 PORT = "9001"
 USERNAME = "markway"
 
